@@ -1,42 +1,33 @@
 # ¡Hola! Soy Mateo 👋
+**Estudiante de Sistemas Informáticos (UTN) | Backend Developer Jr. (Python / FastAPI)**
 
-### Estudiante de Sistemas Informáticos | Backend Developer Jr. en formación
+Construyo soluciones de software enfocadas en el desarrollo backend, diseño de bases de datos relacionales y automatización de procesos mediante código. Me apasiona entender cómo funcionan los sistemas por dentro y crear herramientas que resuelvan problemas reales.
 
-Actualmente estoy construyendo mi camino en el desarrollo de software, con especial interés en el desarrollo backend, la programación y el diseño de soluciones mediante código.
+### 🚀 Actualmente
+* 📚 Estudiando **Sistemas Informáticos en la UTN** (2025 - 2027).
+* 🐍 Desarrollando APIs REST y lógica de negocio con **Python y FastAPI**.
+* 🗄️ Diseñando y consultando bases de datos relacionales con **SQL (SQLite, SQL Server)**.
+* 🤖 Explorando la integración de **modelos de IA (LLMs)** y flujos de automatización en aplicaciones backend.
+* 🎯 En búsqueda de mi primera experiencia profesional como **Backend Developer Jr. / Pasante IT**.
 
-Me interesa aprender cómo funcionan los sistemas internamente, trabajar con bases de datos y desarrollar aplicaciones que resuelvan problemas concretos.
+### 🛠️ Tecnologías y herramientas
+* **Lenguajes:** Python, SQL.
+* **Backend & Frameworks:** FastAPI, APIs REST, Pydantic.
+* **Bases de datos:** SQLite, SQL Server.
+* **Herramientas y Control de Versiones:** Git, GitHub, VS Code, Linux.
+* **Otros:** PySide6 (interfaces de escritorio).
 
-## 🚀 Actualmente
+### 📂 Proyectos Destacados
 
-- 📚 Estudiando Sistemas Informáticos en la UTN.
-- 🐍 Profundizando mis conocimientos en Python.
-- 🗄️ Aprendiendo y practicando SQL y bases de datos relacionales.
-- 💻 Desarrollando proyectos personales para fortalecer mis habilidades.
-- 🎯 Orientando mi formación hacia mi primera oportunidad como Backend Developer Jr.
+#### ✅ Gestor de Tareas y Rutinas (API Backend)
+Sistema backend diseñado para crear, modificar, reactivar y programar avisos de tareas y rutinas personalizadas según las necesidades del usuario.
+* **Tecnologías:** Python · FastAPI · SQLite.
+* **Estado:** En desarrollo activo.
 
-## 🛠️ Tecnologías y herramientas
+#### 📦 Alacena Virtual
+Sistema de gestión de inventario y control de vencimientos orientado a pequeños negocios.
+* **Tecnologías:** Python · SQLite · PySide6.
+* **Estado:** En desarrollo.
 
-- **Lenguajes:** Python, SQL.
-- **Bases de datos:** SQLite, SQL Server.
-- **Herramientas:** Git, GitHub, Visual Studio Code.
-- **En aprendizaje:** PySide6 y desarrollo de aplicaciones de escritorio.
-
-## 📂 Proyectos
-
-### Gestor de Tareas
-Aplicación de escritorio orientada a la organización y administración de tareas personales.
-
-**Tecnologías:** Python · PySide6 · SQLite.
-
-Estado: En desarrollo.
-
-### Alacena Virtual
-Sistema de gestión de inventario y vencimientos orientado a pequeños negocios.
-
-**Tecnologías:** Python · PySide6 · SQLite.
-
-Estado: En desarrollo.
-
-## 📫 Contacto
-
-- LinkedIn: https://www.linkedin.com/in/mateo-ortiz-586905449/
+### 📫 Contacto
+* **LinkedIn:** [Mateo Ortiz](https://www.linkedin.com/in/mateo-ortiz-586905449/)
